@@ -80,3 +80,29 @@ git restore (nombre del archivo)
 
 git commit --asend (para cambiar el mensaje)
 
+<<<<<<< HEAD
+=======
+cat \<NombreArchivo>
+
+git diff codigo de un commit 
+
+git init \<directorio >
+
+rm --hel
+
+rm vacio.txt
+
+cat \<nombrearchivo>
+
+"security.wordspace.trust.untrustedfiles"
+
+"git.autofech": true,
+
+reset (codigo) para volver en el tiempo a ese codigo 
+
+reset hard (el mas duro)
+
+git fetch 
+
+git merge 
+>>>>>>> d2c0fc1c0928555c8d5fc70edac68860becedb13
