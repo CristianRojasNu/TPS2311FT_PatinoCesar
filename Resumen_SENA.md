@@ -19,16 +19,64 @@
 
  pwd
 
-touch \<NombreArchivo>
+ touch \<NombreArchivo>
 
-mkdir \<NombreArchivo>
+ mkdir \<NombreArchivo>
 
-clear
+ clear
 
-history
+ history
 
-!14
+ !14
 
-rm  \<NombreArchivo>
+ rm  \<NombreArchivo>
 
-cat \<NombreArchivo>
+ cat \<NombreArchivo>
+
+ git diff codigo de un commit 
+
+ git init \<directorio >
+
+ rm --hel
+
+ rm vacio.txt
+
+ cat \<nombrearchivo>
+
+ "security.wordspace.trust.untrustedfiles"
+
+ "git.autofech": true,
+
+ reset (codigo) para volver en el tiempo a ese codigo 
+
+ reset hard (el mas duro)
+
+ git fetch 
+
+ git merge 
+
+ git rm \<eliminararchivo>
+
+ git reset
+
+ --cached
+
+ --force
+
+head
+
+--soft
+
+--hard
+
+git fetch
+
+
+git pull
+
+git clone url
+
+git restore (nombre del archivo)
+
+git commit --asend (para cambiar el mensaje)
+
